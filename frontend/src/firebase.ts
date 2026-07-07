@@ -5,7 +5,7 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCq3LlVwTn9-iuMuHzqZkMYb9qgHEAflJU",
+  apiKey: "YOUR_API_KEY_HERE",
   authDomain: "madmax-67ca2.firebaseapp.com",
   databaseURL: "https://madmax-67ca2-default-rtdb.firebaseio.com",
   projectId: "madmax-67ca2",
